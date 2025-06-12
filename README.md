@@ -24,7 +24,3 @@
 - Advanced React Patterns  
 - Backend Development with Node.js
 
----
-
-#### 📈 GitHub Stats
-![Arfat's GitHub stats](https://github.com/arfatlasne/arfatlasne)
