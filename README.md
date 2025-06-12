@@ -27,4 +27,4 @@
 ---
 
 #### 📈 GitHub Stats
-![Arfat's GitHub stats](https://github-readme-stats.vercel.app/api?username=arfatlasne&show_icons=true&theme=tokyonight)
+![Arfat's GitHub stats](https://github.com/las-arfat/las-arfat)
