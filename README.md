@@ -27,4 +27,4 @@
 ---
 
 #### 📈 GitHub Stats
-![Arfat's GitHub stats](https://github.com/las-arfat/las-arfat)
+![Arfat's GitHub stats](https://github.com/arfatlasne/arfatlasne)
