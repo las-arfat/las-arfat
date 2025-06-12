@@ -2,7 +2,7 @@
 
 🎓 **B.Sc. Computer Science Graduate**  
 💻 Passionate Web & Software Developer  
-📫 Reach me at: arfatlasne0@gmail.com  
+📫 Reach me at: arfatlasne29@gmail.com  
 
 ---
 
